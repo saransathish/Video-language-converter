@@ -1,4 +1,3 @@
-# Video-language-converter
 # Video Language Converter Using AWS Services
 
 This project allows users to convert the spoken language in a video to another language using AWS services. The system performs the following steps:
